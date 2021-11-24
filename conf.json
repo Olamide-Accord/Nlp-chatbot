@@ -4,7 +4,7 @@
         "corpora": ["./corpus.json"]
       },
       "api-server": {
-        "port": 4000,
+        "port": 3010,
         "serveBot": true
       }
     },
